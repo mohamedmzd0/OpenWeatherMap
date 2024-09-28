@@ -39,6 +39,10 @@ Welcome to the OpenWeatherMap App! This Android application is designed to fetch
 - **Android SDK**: Ensure you have the required SDK packages.
 - **Gradle**: The project uses Gradle for build management.
 
+
+## Preview app
+[![video](https://github.com/user-attachments/assets/e7e1fb0e-35c4-4e54-bb61-b65d8e5a71a0)](https://github.com/user-attachments/assets/e7e1fb0e-35c4-4e54-bb61-b65d8e5a71a0)
+
 ## Installation
 
 1. **Clone the repository**:
